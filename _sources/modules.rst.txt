@@ -1,0 +1,7 @@
+Essentials
+==========
+
+.. toctree::
+   :maxdepth: 4
+
+   Essentials

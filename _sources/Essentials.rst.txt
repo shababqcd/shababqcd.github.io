@@ -1,0 +1,182 @@
+Essentials package
+==================
+
+Submodules
+----------
+
+Essentials.AgfaData module
+--------------------------
+
+.. automodule:: Essentials.AgfaData
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.AgfaData3D module
+----------------------------
+
+.. automodule:: Essentials.AgfaData3D
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.AgfaData3D\_py3 module
+---------------------------------
+
+.. automodule:: Essentials.AgfaData3D_py3
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.Data2D module
+------------------------
+
+.. automodule:: Essentials.Data2D
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.Data2D\_BigData module
+---------------------------------
+
+.. automodule:: Essentials.Data2D_BigData
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.Data3D\_BigData module
+---------------------------------
+
+.. automodule:: Essentials.Data3D_BigData
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.Data3D\_BigData\_py3 module
+--------------------------------------
+
+.. automodule:: Essentials.Data3D_BigData_py3
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.MATLABimresize module
+--------------------------------
+
+.. automodule:: Essentials.MATLABimresize
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.ProjectionGeometryGenerator module
+---------------------------------------------
+
+.. automodule:: Essentials.ProjectionGeometryGenerator
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.TestClasses module
+-----------------------------
+
+.. automodule:: Essentials.TestClasses
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.VHPCT2DLowDoseData module
+------------------------------------
+
+.. automodule:: Essentials.VHPCT2DLowDoseData
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.VHPCT2DLowDoseDataV1p1 module
+----------------------------------------
+
+.. automodule:: Essentials.VHPCT2DLowDoseDataV1p1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.Visible\_Human\_Project\_CT\_Data\_2D module
+-------------------------------------------------------
+
+.. automodule:: Essentials.Visible_Human_Project_CT_Data_2D
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.XmlVolumeFile module
+-------------------------------
+
+.. automodule:: Essentials.XmlVolumeFile
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.agfatools module
+---------------------------
+
+.. automodule:: Essentials.agfatools
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.models module
+------------------------
+
+.. automodule:: Essentials.models
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.myCurvelet module
+----------------------------
+
+.. automodule:: Essentials.myCurvelet
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.tempLearnableWavelet module
+--------------------------------------
+
+.. automodule:: Essentials.tempLearnableWavelet
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.tensorflowModels module
+----------------------------------
+
+.. automodule:: Essentials.tensorflowModels
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.totalVariation module
+--------------------------------
+
+.. automodule:: Essentials.totalVariation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Essentials.viewer3D module
+--------------------------
+
+.. automodule:: Essentials.viewer3D
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: Essentials
+    :members:
+    :undoc-members:
+    :show-inheritance:
